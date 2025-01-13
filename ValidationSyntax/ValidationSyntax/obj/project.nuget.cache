@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zo2m6Q0n2sDWQ6ynMaIgxVAUjg7DTPPYMfjSRvOl8uvRig7unkZ0TINfxMfuZF0wZIHxtOLqAbyG1xzbXSvJRQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\ValidationSyntax\\ValidationSyntax\\ValidationSyntax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\microsoft.codeanalysis.common\\4.10.0\\microsoft.codeanalysis.common.4.10.0.nupkg.sha512",
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.10.0\\microsoft.codeanalysis.csharp.4.10.0.nupkg.sha512",
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\8.0.0\\microsoft.codeanalysis.netanalyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\isabela.gomes\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
